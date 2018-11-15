@@ -1,0 +1,19 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <!--   <item android:drawable="@mipmap/attack_001" android:duration="70" />
+       <item android:drawable="@mipmap/attack_002" android:duration="70" />
+       <item android:drawable="@mipmap/attack_003" android:duration="70" />
+       <item android:drawable="@mipmap/attack_004" android:duration="70" />
+       <item android:drawable="@mipmap/attack_005" android:duration="70" />
+       <item android:drawable="@mipmap/attack_006" android:duration="70" />
+       <item android:drawable="@mipmap/jump_000" android:duration="70" />
+       <item android:drawable="@mipmap/jump_001" android:duration="70" />
+       <item android:drawable="@mipmap/jump_002" android:duration="70" />
+       <item android:drawable="@mipmap/jump_003" android:duration="70" />
+       <item android:drawable="@mipmap/jump_004" android:duration="70" />-->
+
+
+      <item android:drawable="@mipmap/fly_001" android:duration="100" />
+      <item android:drawable="@mipmap/fly_002" android:duration="100" />
+
+  </animation-list>

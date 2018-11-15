@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">Quardy</string>
+    <string name="category_1">MATH</string>
+    <string name="category_2">COLOR and MEMORY</string>
+    <string name="category_3">FREE STYLE</string>
+    <string name="category_4">category4</string>
+    <string name="category_5">category5</string>
+    <string name="category_6">category6</string>
+    <string name="header_quardy">Quardy</string>
+    <string name="chooseyourcategory">Choose Game Category</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6979765215028091/3111660969</string>
+
+    <string name="notificationheader">Don\'t foreget quardy</string>
+
+    <string name="notificationbody">Quardy is waiting for you</string>
+
+    <string name="nickname">Player Id</string>
+    <string name="email">Email</string>
+    <string name="submit">SUBMIT</string>
+    <string name="welcome">WELCOME</string>
+    <string name="operation">MATH OPERATION</string>
+    <string name="simplicity">MATH SIMPLICITY</string>
+    <string name="cardcalculation2">CARD CALCULATION</string>
+    <string name="memorize">MEMORIZE</string>
+    <string name="crush">QUARDY CRUSH</string>
+    <string name="pettrivia">PET TRIVIA</string>
+
+    <string name="mathsimplicity">MATH SIMPLICITY</string>
+
+    <string name="colordeception">COLOR DECEPTION</string>
+    <string name="colorcircle_directions">Choose the color that have the highest circle count</string>
+    <string name="circleshooter_directions">Aim and shoot towards matching circles</string>
+    <string name="cardcalculation_directions">Add up if green, subtract if red, select answer</string>
+
+    <string name="minesweeper_directions">Avoid finding Mines</string>
+    <string name="colorpick">COLOR PICK</string>
+    <string name="memory">MEMORY</string>
+    <string name="circleshooter">CIRCLE SHOOTER</string>
+    <string name="minesweeper">QUARDY SWEEPER</string>
+    <string name="memory_directions">Choose the same cards</string>
+    <string name="mathsorting">MATH SORTING</string>
+    <string name="nickname2">Player Id:</string>
+    <string name="Top_Score">Level Progress:</string>
+    <string name="Score">Score:</string>
+    <string name="Level">Level:</string>
+    <string name="mathcategory">MATH</string>
+
+    <string name="quardyallinonegame">QUARDY - ALL in 1</string>
+    <string name="WisdomPath">Quardy Levels</string>
+
+    <string name="life">Life:</string>
+    <string name="operation_directions">Guess the correct Result</string>
+
+    <string name="pettrivia_directions">Find the Breed of the Pet</string>
+    <string name="How_to_Play">How to Play ?</string>
+    <string name="bt_start">Start</string>
+    <string name="Start">Start</string>
+    <string name="timeisup">TIME IS UP</string>
+    <string name="sorting_directions_ascending">Please select Circles Ascending if it is Green</string>
+    <string name="sorting_directions_descending">Please select Circles Descending if it is Red</string>
+
+    <string name="license_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAibupmhwU4aOVHFUd4nZ1kLgr7Ka+/awknhR94LWm7rU64f7x6IqRDZ25igCoHjfWkYIkUYuuelirS6tOWBgm7B8KshaxrH4e55atFNyGe/GRPl0xVORlYZ+0htg9B1syczYofKqf/S0HUylg4lLRDzjEyAgKX407btoydK1BHMUSm3d2vij5Cxo5KezMuKK0rn/QIvzDre28k5OxQOA4Ol4AuR0LTn3R0wAW802FW2HDAwi9ULueSDItlOD6xdZyA5UzBeRy2jGAX6xHubXP3w9OhrIRXInaSpSnBFfVxQOsrka2gEfBPFpE9RysEvXAoqlfcciNKaabHmL8bklOXQIDAQAB</string>
+
+    <string name="sorting_directions_ascending2">Please select Circles Ascending</string>
+    <string name="sorting_directions_descending2">Please select Circles Descending</string>
+
+    <string name="RED">RED</string>
+    <string name="GREEN">GREEN</string>
+    <string name="PINK">PINK</string>
+    <string name="WHITE">WHITE</string>
+    <string name="BLUE">BLUE</string>
+    <string name="YELLOW">YELLOW</string>
+    <string name="PURPLE">PURPLE</string>
+    <string name="ORANGE">ORANGE</string>
+    <string name="warningtext">WARNING</string>
+    <string name="newgametext">Your game data will be erased. Do you want to continue?</string>
+
+    <string name="colorsense_directions">Choose the wrong color</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sharequardy">Share Quardy with Friends</string>
+    <string name="signout">SIGN OUT</string>
+
+
+    <string name="signin_other_error">Error</string>
+    <string name="signin_failure">You can sign in later from VIVO ID.</string>
+    <string name="Neopolitanmastiff">Neopolitan Mastiff</string>
+    <string name="collie">Collie</string>
+    <string name="germanshephard">German Shephard</string>
+    <string name="OPTIONS">OPTIONS</string>
+
+    <string name="CONGRATULATIONS">CONGRATULATIONS</string>
+
+    <string name="levelup">You have completed a Level</string>
+
+    <string name="NewGame">New Game</string>
+    <string name="facebooklogin">Facebook</string>
+    <string name="googlelogin">Google</string>
+    <string name="invitefriends">INVITE FRIENDS</string>
+    <string name="Leadereboardface">Leaderboard Facebook</string>
+    <string name="Leadereboardgoogle">Leaderboard Google</string>
+    <string name="Leadereboard">Leaderboard</string>
+
+    <string name="soundon">Sound On</string>
+
+    <string name="youhaveearned">You have earned </string>
+    <string name="award">AWARD</string>
+    <string name="soundoff">Sound Off</string>
+    <string name="quardyshop">Quardy Shop</string>
+    <string name="buy2life">X 2 - buy 2 Life</string>
+    <string name="buy4life">X 4 - buy 4 Life</string>
+    <string name="buy6life">X 6 - buy 6 Life</string>
+    <string name="InfiniteLife"> buy Infinite Life</string>
+
+
+    <string name="warning">Warning</string>
+    <string name="allinone">6 Games in 1</string>
+    <string name="nolife">You have no more life for playing games! Please wait</string>
+    <string name="or">Or</string>
+    <string name="gotoshop">BUY LIFE</string>
+    <string name="facebook_app_id">1778578115804664</string>
+    <string name="fb_login_protocol_scheme">fb1778578115804664</string>
+
+    <string name="Akita">German Akita</string>
+    <string name="Alaskan_Malamute">Alaskan_Malamute</string>
+    <string name="Anatolian_Sheperd_Dog">Anatolian Sheperd Dog</string>
+    <string name="Bernese_Mountain_Dog">Bernese Mountain Dog</string>
+    <string name="Black_Russian_Terrier">Black Russian Terrier</string>
+    <string name="Boxer">German Boxer</string>
+    <string name="Bullmastiff">Bullmastiff</string>
+
+
+
+
+    <string name="Doberman_Pinscher">Doberman Pinscher</string>
+    <string name="German_Pinscher">German Pinscher</string>
+    <string name="Giant_Schanuzer">Giant Schanuzer</string>
+    <string name="Great_Dane">Great Dane</string>
+    <string name="Greater_Swiss_Mountain_Dog">Greater Swiss Mountain Dog</string>
+    <string name="Komondor">Komondor</string>
+    <string name="Kuvasz">Kuvasz</string>
+    <string name="Mastiff">Mastiff</string>
+    <string name="Newfound_Land">Newfound Land</string>
+    <string name="Portuguese_Water_Dog">Portuguese Water Dog</string>
+    <string name="Rottweiler">Rottweiler</string>
+    <string name="Saint_Bernard">Saint Bernard</string>
+    <string name="Samoyed">Samoyed</string>
+    <string name="Siberian_Husky">Siberian Husky</string>
+    <string name="Standard_Schnauzer">Standard_Schnauzer</string>
+    <string name="Tibetan_Mastiff">Tibetan Mastiff</string>
+    <string name="American_Water_Spaniel">American Water Spaniel</string>
+    <string name="Brittany">Brittany</string>
+    <string name="Chesapeake_Bay_Retriever">Chesapeake Bay Retriever</string>
+    <string name="Clumber_Spaniel">Clumber Spaniel</string>
+    <string name="Cocker_Spaniel">Cocker Spaniel</string>
+
+    <string name="findtheobject">What is in the picture ?</string>
+
+    <dimen name="ksw_md_thumb_ripple_size">42dp</dimen>
+    <dimen name="ksw_md_thumb_solid_inset">11dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset">11dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset_top">11dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset_bottom">10dp</dimen>
+
+    <dimen name="ksw_md_thumb_solid_size">20dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_size">21dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_offset">2dp</dimen>
+
+    <!-- style title -->
+    <string name="style_default">Default Style</string>
+    <string name="style_text">With Status Text</string>
+    <string name="style_nofade">Default Style without background fade effect.</string>
+    <string name="style_tint_color">Custom by tint color</string>
+    <string name="style_custom">Custom Style</string>
+    <string name="style_flyme">Flyme5 Style</string>
+    <string name="style_miui">MIUI7 Style</string>
+    <string name="style_md_ios">Material Design &#038; iOS Style</string>
+    <string name="style_disable">Disable state</string>
+    <string name="style_disable_opt">Toggle the others\' enable state</string>
+    <string name="enable_title">enable/disable other SwitchButtons</string>
+
+    <!-- use title -->
+    <string name="use_listener">Work with listener</string>
+    <string name="use_delay">Work with delay</string>
+    <string name="use_check_in_check">call setChecked(boolean)/setCheckedImmediately(boolean) in OnCheckedChangeListener\nIf the second SwitchButton is checked, the first one was "locked" to checked state.</string>
+    <string name="use_listener_finish">You did it!</string>
+    <string name="use_long">work with stuff takes long</string>
+    <string name="use_long_hint">Click "Start" button to kick it off.</string>
+    <string name="use_long_finish">Click "Start" button to kick it off.</string>
+    <string name="use_toggle">2 ways to TOGGLE</string>
+    <string name="use_checked">2 ways to SET_CHECKED</string>
+    <string name="toggle_animated">toggle();</string>
+    <string name="toggle_not_animated">toggleImmediately();</string>
+    <string name="checked_animated">setChecked(boolean);</string>
+    <string name="checked_not_animated">setCheckedImmediately(boolean);</string>
+
+
+
+    <string name="menu_new_game">Neues Spiel</string>
+    <string name="menu_colorblind_mode_on">Darstellung mit Symbolen</string>
+    <string name="menu_colorblind_mode_off">Darstellung ohne Symbole</string>
+    <string name="menu_fullscreen_on">Vollbild an</string>
+    <string name="menu_fullscreen_off">Vollbild aus</string>
+    <string name="menu_sound_on">Ton an</string>
+    <string name="menu_sound_off">Ton aus</string>
+    <string name="menu_about">Über Frozen Bubble</string>
+    <string name="menu_touchscreen_aim_then_shoot">Einstellen, dann schießen</string>
+    <string name="menu_touchscreen_point_to_shoot">Zeigen zum Schießen</string>
+    <string name="menu_dont_rush_me">Kein Zeitdruck</string>
+    <string name="menu_rush_me">Zeitdruck</string>
+    <string name="menu_editor">Level-Editor</string>
+    <string name="install_editor">Weiterleitung zum Android Market für den Download des Level-Editors...</string>
+    <string name="market_missing">Android Market nicht gefunden! Bitten installieren Sie den Level-Editor manuell.</string>
+
+</resources>

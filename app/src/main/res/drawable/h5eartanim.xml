@@ -1,0 +1,25 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@mipmap/h5eartanim1" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim2" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim3" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim4" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim5" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim6" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim7" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim8" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim9" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim10" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim11" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim12" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim13" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim14" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim15" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim16" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim17" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim18" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim19" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim20" android:duration="100" />
+    <item android:drawable="@mipmap/h5eartanim21" android:duration="100" />
+
+</animation-list>

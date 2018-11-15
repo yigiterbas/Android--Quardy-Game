@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "537302323232",
+    "firebase_url": "https://quardy-7ecd7.firebaseio.com",
+    "project_id": "quardy-7ecd7",
+    "storage_bucket": "quardy-7ecd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537302323232:android:b35dd343cd41ea9b",
+        "android_client_info": {
+          "package_name": "quardy.ye.game.com.quardy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537302323232-lf6u8hs758uuiu7racdtb371fk0m10ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgfBpohfdc0eXr7y7IcDKitq2Kho7HOTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
